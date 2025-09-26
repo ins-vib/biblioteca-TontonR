@@ -1,2 +1,2 @@
 # PlantillaLandingBiblioteca
-# Rubén Muñoz Blanco
+Rubén Muñoz Blanco
